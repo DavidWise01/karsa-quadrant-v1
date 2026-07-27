@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 235
 slug  : karsa-quadrant-v1
-seal  : e11a7ce97c77fd3a6574d74faf1d7ac74c868c1f585a88001a1d597ab4b1bfe9
-prev  : 85677beed150f90bec8b5c9f15fd0b9a1b28b50eb66ec6843a11c8f0e89b2ea8
-link  : adff9b2ddaa59d2b5243f0d839be8ef420189e5f4da4865cf38ac29ff3617b5b
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : 3739cd79b17cfc751400cc93dcb5422cdf5a5a49cad387a91a9519c6ba691e96
+prev  : df0820b86e9ed4d870cda03d60ebe55d2cfced00ec5e0602fc7048f0b50b0b95
+link  : db07237dace5aaa9c8d78762caeec6670160972e69e34e2b18c0a969f3c454e6
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
